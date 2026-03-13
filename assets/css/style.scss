@@ -1,0 +1,67 @@
+---
+---
+
+// Headers
+$header-heading-color: #fff !default;
+$header-bg-color: #99c1f1 !default;
+$header-bg-color-secondary: #014963 !default;
+
+$section-headings-color: #014963 !default;
+
+
+@import "{{ site.theme }}";
+
+/* smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* header buttons */
+
+.header-buttons {
+  margin-top: 1.5rem;
+}
+
+.header-buttons .btn {
+  margin: 0.4rem;
+}
+
+/* section spacing */
+
+.section-block {
+  margin: 3rem 0;
+}
+
+/* LANDING PAGE */
+
+body.landing {
+  height: 100vh;
+  overflow: hidden;
+
+  #background: linear-gradient(135deg,#014963,#99c1f1);
+  background: linear-gradient(135deg,#99c1f1,#014963);
+  color: white;
+}
+
+.landing-wrapper {
+  height: 100vh;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  text-align: center;
+}
+
+.landing-hero {
+  max-width: 700px;
+}
+
+.edition-buttons {
+  margin-top: 2rem;
+}
+
+.edition-buttons .btn {
+  margin: 0.5rem;
+  font-size: 1.1rem;
+}

@@ -1,6 +1,10 @@
 ---
 layout: default
 title: "Workshop"
+venue: "ECML-PKDD 2026"
+date-from: "07.09.2026"
+date-to: "11.09.2026"
+location: "Naples, Italy"
 ---
 
 <section id="overview" class="section-block" markdown="1">

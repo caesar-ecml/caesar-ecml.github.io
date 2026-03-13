@@ -1,5 +1,6 @@
 title: "CAESAR: Causal Anomalies - Exploring Synergies of Anomaly Detection and Causal Inference"
-description: "Workshop @ ECML-PKDD 2026"
+description: "Workshop on causal inference, anomaly detection, their intersection and borders"
+
 lang: en
 theme: jekyll-theme-cayman
 #plugins:
@@ -10,7 +11,7 @@ theme: jekyll-theme-cayman
 # - For GitLab pages: baseurl: "/REPO_NAME"
 url: ""
 
-baseurl: "/2026"
+baseurl: "/"
 
 
 # Theme navigation (top menu)
