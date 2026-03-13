@@ -14,22 +14,5 @@ url: ""
 baseurl: "/"
 
 
-# Theme navigation (top menu)
-nav:
-  - title: "Overview"
-    url: "#overview"
-  - title: "Call for Papers"
-    url: "#cfp"
-  - title: "Important Dates"
-    url: "#dates"
-  - title: "Program"
-    url: "#program"
-  - title: "Organizers"
-    url: "#organizers"
-  - title: "Contact"
-    url: "#contact"
-  - title: "ECML PKDD 2026"
-    url: "https://ecmlpkdd.org/2026/"
-
 include:
   - assets

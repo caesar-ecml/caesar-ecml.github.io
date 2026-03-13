@@ -14,10 +14,10 @@
     <section class="page-header" id="top">
       <h1 class="project-name">{{ site.title }}</h1>
       <h2 class="project-tagline">{{ site.description }}</h2>
-      <h2 class="project-tagline">held as part of <b>{{ page.venue }}</b></h2>
+      <h2 class="project-tagline">{% if page.venue %}held as part of <b>{{ page.venue }} {{ page.year }}</b>{% endif %}</h2>
 
       <div class="header-buttons">
-        {% for item in site.nav %}
+        {% for item in page.nav %}
           <a class="btn" href="{{ item.url }}">{{ item.title }}</a>
         {% endfor %}
       </div>
@@ -26,5 +26,14 @@
     <main id="content" class="main-content" role="main">
       {{ content }}
     </main>
+  <footer>
+    <a href="{{ '/imprint/' | relative_url }}" rel="noopener">
+      Imprint
+    </a>
+    |
+    <a href="{{ '/privacy/' | relative_url }}" rel="noopener">
+      Privacy
+    </a>
+  </footer>
   </body>
 </html>
