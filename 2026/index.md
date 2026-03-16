@@ -85,6 +85,8 @@ At least one of the authors must be registered to the conference. If not, the pa
 | Camera-ready deadline        | 17.08.2026 |
 | Workshop day                 | tba        |
 
+\* all deadlines expire on 23:59 AoE
+
 </section>
 
 <section id="program" class="section-block" markdown="1">
