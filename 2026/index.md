@@ -101,12 +101,12 @@ The workshop program will be announced soon.
 
 ## Organizers
 
-- **Ferdinand Rewicki**, German Aerospace Center (DLR), Friedrich Schiller University Jena, Germany
 - **Julia Niebling**, German Aerospace Center (DLR), Germany
-- **Jonas Wahl**, German Research Centre for Artificial Intelligence (DFKI), Germany 
-- **Thorsten Rings**, German Aerospace Center (DLR), Germany
 - **Oana-Iluiana Popescu**, University of Potsdam, Germany
-- **Clemens Schefels**, German Aerospace Center (DLR), German Space Operations Center (GSOC), Germany
+- **Ferdinand Rewicki**, German Aerospace Center (DLR), Friedrich Schiller University Jena, Germany
+- **Thorsten Rings**, German Aerospace Center (DLR), Germany
+- **Clemens Schefels**, German Aerospace Center (DLR), Germany
+- **Jonas Wahl**, German Research Centre for Artificial Intelligence (DFKI), Germany
 
 ## Program Committee
 The program committee members will be announced soon.
