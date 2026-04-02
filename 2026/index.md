@@ -102,7 +102,7 @@ The workshop program will be announced soon.
 ## Organizers
 
 - **Julia Niebling**, German Aerospace Center (DLR), Germany
-- **Oana-Iluiana Popescu**, University of Potsdam, Germany
+- **Oana-Iuliana Popescu**, University of Potsdam, Germany
 - **Ferdinand Rewicki**, German Aerospace Center (DLR), Friedrich Schiller University Jena, Germany
 - **Thorsten Rings**, German Aerospace Center (DLR), Germany
 - **Clemens Schefels**, German Aerospace Center (DLR), Germany
