@@ -81,9 +81,9 @@ At least one of the authors must be registered to the conference. If not, the pa
 |------------------------------|------------|
 | Abstract Submission deadline | 05.06.2026 |
 | Paper Submission deadline    | 12.06.2026 |
-| Acceptance notification      | 13.07.2026 |
-| Camera-ready deadline        | 17.08.2026 |
-| Workshop day                 | tba        |
+| Acceptance notification      | 20.07.2026 |
+| Camera-ready deadline        | 21.08.2026 |
+| Workshop day                 | 11.09.2026 |
 
 \* all deadlines expire on 23:59 AoE
 
