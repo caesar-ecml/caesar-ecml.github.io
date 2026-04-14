@@ -71,3 +71,27 @@ body.landing {
   margin: 0.5rem;
   font-size: 1.1rem;
 }
+
+.side-by-side {
+  display: flex;
+  gap: 20px;
+  align-items: flex-start;
+  margin: 20px 0;
+}
+
+.side-by-side .image img {
+  max-width: 250px;
+  height: auto;
+  border-radius: 8px;
+}
+
+.side-by-side .text {
+  flex: 1;
+  text-align: justify;
+}
+
+@media (max-width: 600px) {
+  .side-by-side {
+    flex-direction: column;
+  }
+}

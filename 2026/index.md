@@ -14,6 +14,8 @@ nav:
     url: "#cfp"
   - title: "Important Dates"
     url: "#dates"
+  - title: "Keynote Speaker"
+    url: "#keynote"
   - title: "Program"
     url: "#program"
   - title: "People"
@@ -87,6 +89,32 @@ At least one of the authors must be registered to the conference. If not, the pa
 
 \* all deadlines expire on 23:59 AoE
 
+</section>
+
+<section id="keynote" class="section-block" markdown="1">
+
+## Keynote Speaker
+We are delighted to announce that Charles Assaad will be giving the keynote talk. 
+
+<div class="side-by-side">
+  <div class="image">
+    <img src="./assets/img/charlesassaad.jpg" alt="Charles Assaad">
+  </div>
+  <div class="text">
+    <p>
+Charles Assaad is a researcher whose work focuses on causal discovery, 
+causal reasoning, and root cause analysis, with applications ranging 
+from IT monitoring to epidemiology and public health. He leads the 
+CIPHOD team at the Pierre Louis Institute of Epidemiology and Public 
+Health (Sorbonne Université, Inserm), which develops causal inference 
+methods for public health using large observational health databases. 
+His recent research includes targeted causal discovery, causal abstractions 
+such as summary causal graphs, cluster graphs and difference graphs, and 
+methodological advances at the interface of causal inference, epidemiology, 
+and public health. 
+    </p>
+  </div>
+</div>
 </section>
 
 <section id="program" class="section-block" markdown="1">
