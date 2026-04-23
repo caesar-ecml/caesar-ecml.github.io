@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Workshop"
-venue: "ECML-PKDD"
+venue: "ECML PKDD"
 year: "2026"
 date-from: "07/09/2026"
 date-to: "11/09/2026"
@@ -32,7 +32,7 @@ nav:
 
 ## Overview
 
-**CAESAR: Causal Anomalies - Exploring Synergies of Anomaly Detection and Causal Inference** is a workshop held at **ECML-PKDD 2026**, 07/09/2026 - 11/09/2026 in **Naples, Italy**.
+**CAESAR: Causal Anomalies - Exploring Synergies of Anomaly Detection and Causal Inference** is a workshop held at **ECML PKDD 2026**, 07/09/2026 - 11/09/2026 in **Naples, Italy**.
 
 This half-day workshop brings together researchers and experts from machine learning, data mining, and statistics, especially in the areas of **causal inference**, **anomaly detection** and **their intersection**, to share knowledge, discuss challenges, and progress in bringing these research areas together.
 Anomaly detection aims at identifying unusual or unexpected patterns that deviate from some, often unknown, normal state. The objective of causal inference is to identify the underlying causal relationships within data. The combination of these two concepts offers a more holistic comprehension of the issues we encounter and the systems we examine. One approach to combine both research fields is root cause analysis, which employs causal inference techniques to elucidate the source of observed anomalous behavior. Tracing back the cause of anomalous behavior is of particular importance in applications that monitor critical infrastructure, such as IT networks or power grids. Other approaches target the identification of anomalous causal relations with the objective of detecting critical changes in the data-generating process. The intersection of causal inference and anomaly detection presents a number of special challenges, as it requires the analysis of large amounts of data in order to learn the underlying causal relations. However, the availability of such amounts of data is often limited when dealing with anomalies that are notoriously rare.
