@@ -68,10 +68,12 @@ The Workshop will be included in a joint ECML PKDD Post-Workshop proceeding publ
 
 At least one of the authors must be registered to the conference. If not, the paper will not appear in the program.
 ### Submission details
-- Submission platform: CMT (make sure to select the CAESAR track)
-- Formatting: [LNCS format](https://ecmlpkdd-storage.s3.eu-central-1.amazonaws.com/2025/ECML_PKDD_2025_Author_Kit.zip)
+- Submission platform: <a href="https://cmt3.research.microsoft.com/ECMLPKDDWT2026/Track/37/Submission/Create" target="_blank">CMT</a> (make sure to have the CAESAR track selected)
+- Formatting: <a href="https://ecmlpkdd-storage.s3.eu-central-1.amazonaws.com/2025/ECML_PKDD_2025_Author_Kit.zip" target="_blank">LNCS format</a>
 - Review process: double-blind
 - Proceedings: Yes (opt-in or opt-out)
+
+<a href="https://cmt3.research.microsoft.com/ECMLPKDDWT2026/Track/37/Submission/Create" target="_blank" class="btn btn-action">Submit your paper here!</a>
 
 </section>
 
@@ -123,6 +125,7 @@ and public health.
 
 The workshop program will be announced soon.
 
+
 </section>
 
 <section id="organizers" class="section-block" markdown="1">
@@ -137,7 +140,18 @@ The workshop program will be announced soon.
 - **Jonas Wahl**, German Research Centre for Artificial Intelligence (DFKI), Germany
 
 ## Program Committee
-The program committee members will be announced soon.
+We thank all program committee members for their contribution to a fair and high quality review process.
+
+- **Edgardo Solano Carrillo**, German Aerospace Center (DLR)
+- **Sophia Faltenbacher**, University of Potsdam
+- **Baptiste Lambert**, German Aerospace Center (DLR)
+- **Sreerag Naveenachandran**, German Aerospace Center (DLR)
+- **Urmi Ninad**, University of Potsdam
+- **Martin Rabel**, University of Potsdam
+- **Sheetal Sahoo**, German Aerospace Center (DLR)
+- **Bilel Ben Salem**, German Aerospace Center (DLR)
+- **Gideo Stein**, University of Jena
+- **Violeta Teodora Trifunov**, German Aerospace Center (DLR)
 
 </section>
 

@@ -79,6 +79,20 @@ body.landing {
   margin: 20px 0;
 }
 
+.btn-action {
+  display: inline-block;
+  padding: 8px 15px;
+  background-color: #014963;
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: bold;
+}
+
+.btn-action:hover {
+  background-color: #012d3d;
+}
+
 .side-by-side .image img {
   max-width: 250px;
   height: auto;
