@@ -125,21 +125,7 @@ and public health.
 
 ## Program
 
-The Workshop takes placed during the morning session on Friday 11/09/2026.
-
-| Time          | Description                             | 
-|---------------|-----------------------------------------|
-| 09:00 - 09:15 | Introduction                            |
-| 09:15 - 10:00 | Keynote Talk by Charles Assaad          |
-| 10:00 - 10:45 | 3 Orals                                 |
-| 10:45 - 11:00 | Introduction to the Posters             |
-|               |                                         |
-| 11:00 - 11:30 | Posters & Coffee Break                  |
-|               |                                         |
-| 11:30 - 12:00 | Extended Talk (best paper oder invited) |
-| 12:00 - 12:15 | 1 Oral                                  |
-| 12:15 - 12:20 | Closing Remarks                         |
-| 12:20 - 13:00 | Poster Session                          |
+The workshop program will be announced soon.
 
 
 </section>
