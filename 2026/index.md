@@ -147,11 +147,13 @@ We thank all program committee members for their contribution to a fair and high
 - **Edgardo Solano Carrillo**, German Aerospace Center (DLR)
 - **Sophia Faltenbacher**, University of Potsdam
 - **Baptiste Lambert**, German Aerospace Center (DLR)
+- **Timothée Loranchet**, Institut National de la Santé et de la Recherche Médicale (INSERM)
 - **Sreerag Naveenachandran**, German Aerospace Center (DLR)
 - **Urmi Ninad**, University of Potsdam
 - **Martin Rabel**, University of Potsdam
 - **Sheetal Sahoo**, German Aerospace Center (DLR)
 - **Bilel Ben Salem**, German Aerospace Center (DLR)
+- **Leonard Schlag**, German Aerospace Center (DLR)
 - **Gideo Stein**, University of Jena
 - **Violeta Teodora Trifunov**, German Aerospace Center (DLR)
 
