@@ -28,6 +28,14 @@ nav:
     url: "https://ecmlpkdd.org/2026/"
 ---
 
+<section id="news" class="section-block" markdown="1">
+
+## News
+\[12.06.2026\] <span class="news-headline">Submission deadline extended!</span><br>
+We extended our submission deadline to the <b>14.06.2026</b> (23:59 AoE).
+
+</section>
+
 <section id="overview" class="section-block" markdown="1">
 
 ## Overview
@@ -83,13 +91,13 @@ At least one of the authors must be registered to the conference. If not, the pa
 
 ## Important Dates
 
-| Milestone                    | Date       |
-|------------------------------|------------|
-| Abstract Submission deadline | 05.06.2026 |
-| Paper Submission deadline    | 12.06.2026 |
-| Acceptance notification      | 20.07.2026 |
-| Camera-ready deadline        | 21.08.2026 |
-| Workshop day                 | 11.09.2026 |
+| Milestone                                                                  | Date                                                            |
+|----------------------------------------------------------------------------|-----------------------------------------------------------------|
+| Abstract Submission deadline                                               | 05.06.2026                                                      |
+| Paper Submission deadline<br><span class="news-headline">(extended)</span> | ~~12.06.2026~~<br/><span class="news-headline">14.06.2026<span> |
+| Acceptance notification                                                    | 20.07.2026                                                      |
+| Camera-ready deadline                                                      | 21.08.2026                                                      |
+| Workshop day                                                               | 11.09.2026                                                      |
 
 \* all deadlines expire on 23:59 AoE
 
