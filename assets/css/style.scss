@@ -114,3 +114,26 @@ body.landing {
     color: #014963;
     font-weight: normal;
 }
+
+.expandable-table {
+  width: 100%;
+  table-layout: fixed;
+}
+
+.expandable-table th,
+.expandable-table td {
+  overflow-wrap: anywhere;
+  word-break: break-word;
+  vertical-align: top;
+}
+
+.expandable-table td p {
+  text-align: justify;
+}
+
+.detail-row td {
+  width: auto;
+  max-width: 0;
+  background: #f3f6f8;
+  padding: 1rem;
+}
