@@ -137,3 +137,15 @@ body.landing {
   background: #f3f6f8;
   padding: 1rem;
 }
+
+.expandable-table details .label-open {
+  display: none;
+}
+
+.expandable-table details[open] .label-closed {
+  display: none;
+}
+
+.expandable-table details[open] .label-open {
+  display: inline;
+}
