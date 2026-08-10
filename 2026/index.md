@@ -207,7 +207,7 @@ The Workshop takes placed during the morning session on Friday 11.09.2026.<br>
     The introduction of continuous monitoring sensors in wastewater treatment plants (WWTPs) offers an opportunity for fine-grained understanding and control. However, WWTP data is highly non-linear and non-stationary, with distinct regimes of operation. Sensors are also prone to anomalous readings due to sensor drift, physical anomalies, and hydrodynamics within tanks. To address these issues we segment sensor data by regime. To infer causal relationships among sensors we perform graph decomposition, giving a temporal and a contemporaneous graph for each regime. These graphs are evaluated based on consistency within regime and differences between regimes, confirming the success of our method. They can then be used to communicate sensor relationships to domain experts and confirm expected relationships.
    </p></details></td></tr>
 <tr>
-  <td>10:15 - 10:20</td><td></td><td>Closing Remarks</td>
+  <td>13:25 - 13:30</td><td></td><td>Closing Remarks</td>
 </tr>
 </tbody>
 </table>
