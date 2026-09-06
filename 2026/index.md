@@ -31,6 +31,9 @@ nav:
 <section id="news" class="section-block" markdown="1">
 
 ## News
+\[06.09.2026\] <span class="news-headline">Papers available!</span><br>
+The accepted papers are now available (see <a href="#program">Program</a>).
+<br>
 \[31.07.2026\] <span class="news-headline">Program is online!</span><br>
 We are happy to share the program of our workshop with you. Have a look below and check out the presentations and abstracts.
 <br>
