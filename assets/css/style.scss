@@ -149,3 +149,7 @@ body.landing {
 .expandable-table details[open] .label-open {
   display: inline;
 }
+
+.expandable-table summary a {
+  margin-right: 1em;
+}
