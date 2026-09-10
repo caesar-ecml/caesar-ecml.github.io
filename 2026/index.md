@@ -167,7 +167,7 @@ The Workshop takes placed during the morning session on Friday 11.09.2026.<br>
 <details>
   <summary style="cursor: pointer;">
     <b>Root cause analysis via difference graph discovery from linear time-series data</b>
-    <br>Anouk Ruer, Timothee Loranchet et al.<br>
+    <br>Anouk Ruer, Timothee Loranchet, Daria Bystrov and Charles Assaad <br>
     <a><span class="label-closed">Show</span><span class="label-open">Hide</span> Details</a>
     <a class="icon-link" href="./assets/papers/252_Ruer-et-al_Root-cause-analysis-via-difference-graph-discovery-from-linear-time-series-data.pdf" target="_blank"><i class="bi bi-file-earmark-pdf-fill"></i> Paper</a>
     <a class="icon-link" href="./assets/papers/252_Ruer-et-al_Root-cause-analysis-via-difference-graph-discovery-from-linear-time-series-data_supplemental-materials.pdf" target="_blank"><i class="bi bi-file-earmark-pdf-fill"></i> Supplementary Materials</a>
@@ -179,7 +179,7 @@ The Workshop takes placed during the morning session on Friday 11.09.2026.<br>
 <details>
   <summary style="cursor: pointer;">
     <b>PRIM: Meta-Learned Bayesian Root Cause Analysis</b><br>
-    Christopher Lohse, Anish Dhir et al.<br>
+    Christopher Lohse, Anish Dhir, Amadou Ba, Bradley Eck, Marco Ruffini and Jonas Wahl <br>
     <a><span class="label-closed">Show</span><span class="label-open">Hide</span> Details</a>
   </summary>
    <hr><span style="text-decoration: underline;">Abstract</span><p>
@@ -192,7 +192,6 @@ The Workshop takes placed during the morning session on Friday 11.09.2026.<br>
     <b>Causal Characterization of Measurement and Mechanistic Anomalies</b><br>
     Hendrik Suhr, David Kaltenpoth and Jilles Vreeken<br>
     <a><span class="label-closed">Show</span><span class="label-open">Hide</span> Details</a>
-    <a class="icon-link" href="./assets/papers/221_Suhr_Causal_Characterization_of_Measurement_and_Mechanistic_Anomalies.pdf" target="_blank"><i class="bi bi-file-earmark-pdf-fill"></i> Extended Abstract</a>
   </summary>
    <hr><span style="text-decoration: underline;">Abstract</span><p>
     Root cause analysis of anomalies aims to identify how and why a sample deviates from the normal process. Existing methods primarily focus on telling which features are responsible, ignoring that anomalies can arise through two fundamentally different processes: measurement errors, where the sample is generated normally but one or more values is recorded incorrectly, and mechanism shifts, where the causal process that generated the sample was changed. While measurement errors can often be safely corrected, mechanistic anomalies require careful consideration. In this extended abstract, we formally define a causal model that explicitly captures both types by treating outliers as latent interventions on latent ("true") and observed ("measured"). Based on this model, we develop an efficient inference procedure for localizing root causes and distinguishing anomaly types. Experiments on synthetic and real-world data show that our method provides state-of-the-art performance in root cause localization, while enabling the novel task of classification of anomaly types.
@@ -201,7 +200,7 @@ The Workshop takes placed during the morning session on Friday 11.09.2026.<br>
 <details>
   <summary style="cursor: pointer;">
     <b>Do Causally Informed Graphs Improve Domain Generalisation in Industrial Anomaly Detection</b><br>
-    Supraja Muralidharan, Karthikey Sharma, et al.<br>
+    Supraja Muralidharan, Karthikey Sharma, Abhishek Srinivasan and Sepideh Pashami<br>
     <a><span class="label-closed">Show</span><span class="label-open">Hide</span> Details</a>
     <a class="icon-link" href="./assets/papers/424_Muralidharan-et-al_Do-Causally-Informed-Graphs-Improve-Domain-Generalisation-in-Anomaly-Detection.pdf" target="_blank"><i class="bi bi-file-earmark-pdf-fill"></i> Paper</a>
   </summary>
@@ -212,7 +211,7 @@ The Workshop takes placed during the morning session on Friday 11.09.2026.<br>
 <details>
   <summary style="cursor: pointer;">
     <b>The JANUS Decision: Joint Adjudication via Negative-and-positive control Unified Signals for Observational Causal Inference</b><br>
-    Raphael Derecki, Bogna Liziniewicz et al.<br>
+    Raphael Derecki, Bogna Liziniewicz, James Goulding and Brian O'Shea<br>
     <a><span class="label-closed">Show</span><span class="label-open">Hide</span> Details</a>
     <a class="icon-link" href="./assets/papers/596_Derecki-et-al_The-JANUS-Decision-Joint-Adjudication-via-Negative-and-positive-control-Unified-Signals-for-Observational-Causal-Inference.pdf" target="_blank"><i class="bi bi-file-earmark-pdf-fill"></i> Paper</a>
   </summary>
@@ -224,7 +223,7 @@ The Workshop takes placed during the morning session on Friday 11.09.2026.<br>
 <details>
   <summary style="cursor: pointer;">
     <b>Localized Anomaly Detection via Differentiable D-vine Copula</b>
-    <br>Nicholas Pearson, Francesca Zanello et al.
+    <br>Nicholas Pearson, Francesca Zanello, Davide Russo, Luca Bortolussi and Francesca Cairoli 
     <br><a><span class="label-closed">Show</span><span class="label-open">Hide</span> Details</a>
     <a class="icon-link" href="./assets/papers/358_Pearson-et-al_Localized-Anomaly-Detection-via-Differentiable-D-vine-Copulas.pdf" target="_blank"><i class="bi bi-file-earmark-pdf-fill"></i> Paper</a>
     <a class="icon-link" href="./assets/papers/358_Pearson-et-al_Localized-Anomaly-Detection-via-Differentiable-D-vine-Copulas_supplementary_material.pdf" target="_blank"><i class="bi bi-file-earmark-pdf-fill"></i> Supplementary Materials</a>
